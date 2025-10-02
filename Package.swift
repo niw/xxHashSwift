@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "xxHash",
+    name: "xxHashSwift",
     products: [
         .library(
             name: "xxHash",
